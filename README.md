@@ -8,5 +8,5 @@ For start the script, please start the <code>install.bat</code> OR do <code>pip 
 
 <p align="center"> 
   Download<br>
-  <img src="https://profile-counter.glitch.me/chatgpt4frrfee/count.svg" />
+  <img src="https://profile-counter.glitch.me/chatgfpt4frrfee/count.svg" />
 </p>
